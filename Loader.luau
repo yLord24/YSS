@@ -1,3 +1,4 @@
-return function()
-print("Backdoor Loaded")
-end
+{
+  "type": "function",
+  "body": "print('bd Loaded')"
+}
